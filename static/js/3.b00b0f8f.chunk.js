@@ -1,2 +1,0 @@
-(this.webpackJsonpprofile=this.webpackJsonpprofile||[]).push([[3],{107:function(a,t,r){a.exports=r.p+"static/media/avatar.6ee1888b.png"},108:function(a,t,r){"use strict";r.r(t);var e=r(89),i=r(0),n=r.n(i),s={avatar:r(107)},c=Object(e.a)((function(a){return{avatar:{width:"100%",borderRadius:2*a.shape.borderRadius}}}));t.default=function(){var a=c();return n.a.createElement("img",{alt:"avatar",className:a.avatar,src:s.avatar})}}}]);
-//# sourceMappingURL=3.b00b0f8f.chunk.js.map
